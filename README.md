@@ -2,7 +2,7 @@
 
 - 🔭 No momento estou me especializando em front-end
 - 🌱 Estou no 2° semetre da faculdade em análise e desenvolvimento de sistemas
-- 🔨 Estudando react js.
+- 🔨 Estudando react-native.
 - 😄 Pronomes: ele/dele
 - ⚡ Tudo é repetição. Seja paciente e determinado! Acredite em você! ⚡
 
