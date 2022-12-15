@@ -1,8 +1,8 @@
 ### Eaii! Me chamo Álvaro Noronha, seja muito bem vindo!
 
-- 🔭 No momento estou me especializando em front-end
+- 🔭 No momento estou me especializando na parte de Back-end
 - 🌱 Estou no 2° semetre da faculdade em análise e desenvolvimento de sistemas
-- 🔨 Estudando react-native.
+- 🔨 Estudando Java
 - 😄 Pronomes: ele/dele
 - ⚡ Tudo é repetição. Seja paciente e determinado! Acredite em você! ⚡
 
