@@ -2,7 +2,7 @@
 
 - 🔭 No momento estou me especializando na parte de Back-end
 - 🌱 Estou no 2° semetre da faculdade em análise e desenvolvimento de sistemas
-- 🔨 Estudando Java
+- 🔨 Estudando Java na alura
 - 😄 Pronomes: ele/dele
 - ⚡ Tudo é repetição. Seja paciente e determinado! Acredite em você! ⚡
 
