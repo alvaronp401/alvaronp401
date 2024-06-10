@@ -1,8 +1,7 @@
-### Eaii! Me chamo Álvaro Noronha, seja muito bem vindo!
+### seja muito bem vindo!
 
-- 🔭 No momento estou me especializando na parte de Back-end
+- 🔭 No momento estou me especializando na parte de desenvolvimento web
 - 🌱 Estou no 2° semetre da faculdade em análise e desenvolvimento de sistemas
-- 🔨 Estudando Java na alura
 - ⚡ Tudo é repetição. Seja paciente e determinado! Acredite em você! ⚡
 
   <div style="display: inline_block"><br>
