@@ -1,6 +1,6 @@
 ### seja muito bem vindo!
 
-- 🔭 No momento estou me especializando na parte de desenvolvimento web
+- 🔭 No momento estou me especializando na parte de penteste pela Desec Security
 - 🌱 Estou no 2° semetre da faculdade em análise e desenvolvimento de sistemas
 - ⚡ Tudo é repetição. Seja paciente e determinado! Acredite em você! ⚡
 
